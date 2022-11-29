@@ -3,3 +3,9 @@ this is a file
 this is the second paragrapho
 bla bla bla
 this is the end of the second paragraph
+
+
+this is paragraph 3
+bla jbsdjfsd
+epic paragraph
+this is the end of the third paragraph
